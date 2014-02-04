@@ -374,7 +374,7 @@ Let's first look at the estimated coefficients
 ```{r}
 colnames(fit_TIV_08$coef)
 ```
-In this case, the design matrix contains 1's and 0's, indicating which patient and time point matches up to a given measurement in the vector, $\mathbf{Y}$. There is no column for timeD0, since it is the reference point: the measurement for timeD3 is log the difference between time D3 and D0, and the measurement for timeD7 is the log difference between time D7 and D0.
+In this case, the design matrix contains 1's and 0's, indicating which patient and time point matches up to a given measurement in the vector, $\mathbf{Y}$. There is no column for timeD0, since it is the reference point. When both timeD3 and timeD7 are zero, than we know that the measurement is from timeD0. 
 
 Now we can test specific hypotheses.
 

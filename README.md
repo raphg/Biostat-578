@@ -1,7 +1,7 @@
 BIOSTAT 578A: Bioinformatics for Big Omics Data
 ===============================================
 
-**Important Note:** I am in the process of modifying the content of this repository in preparation for Winter 2015. Stay tuned. If you want to be informed of all changes, please create a github account and watch the repository.
+**Important Note:** I am still modifying the content of this repository for Winter 2015. If you want to be informed of all changes, please create a github account and watch the repository.
 
 **Instructor:** Raphael Gottardo, PhD, Fred Hutchinson Cancer Research Center
 

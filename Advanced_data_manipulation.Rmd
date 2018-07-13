@@ -357,9 +357,6 @@ A ` list` containing a length 1 vector for each item in `by`.
 
 ### `.N`
 
-
-## Special variables
-
 An integer, length 1, containing the number of rows in `.SD`.
 
 ### `.I`
